@@ -1,2 +1,2 @@
 # SICP-Swift
-1 add implemntation for memory recursive func
+1. - [x] add implemntation for memory recursive func

@@ -1,5 +1,6 @@
 import Foundation
 
+
 public class MemFunc<T:Hashable,U> {
     public typealias EvalFunc = (T) -> U
     public typealias RecursiveFunc = (EvalFunc,T) -> U
